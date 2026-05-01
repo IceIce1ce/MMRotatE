@@ -1,4 +1,4 @@
-# COCA
+# MMRotatE
 
 ## 1. Introduction
 
@@ -7,10 +7,10 @@
 ```BibTeX
 @misc{Chi2022,
   author       = {Chi Tran},
-  title        = {COCA: A Baseline for Multimodal Knowledge Graph Embedding,
+  title        = {MMRotatE: Multimodal Knowledge Graph Embeddings by Relational Rotation in Complex Space,
   publisher    = {GitHub},
   booktitle    = {GitHub repository},
-  howpublished = {https://github.com/IceIce1ce/COCA},
+  howpublished = {https://github.com/IceIce1ce/MMRotatE},
   year         = {2022}
 }
 ```
