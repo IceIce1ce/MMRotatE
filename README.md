@@ -20,7 +20,7 @@
 bash scripts/process_dataset.sh
 ```
 
-## 3. To train and test the model, run the following script:
+## 3. To train and test the model for FBIMG and WN19IMG datasets, run the following script:
 ```shell
 bash scripts/train.sh
 ```
